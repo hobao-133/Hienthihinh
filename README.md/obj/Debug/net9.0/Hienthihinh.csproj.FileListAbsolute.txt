@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\bin\Debug\net9.0\Hienthihinh.exe
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\bin\Debug\net9.0\Hienthihinh.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\bin\Debug\net9.0\Hienthihinh.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\bin\Debug\net9.0\Hienthihinh.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\bin\Debug\net9.0\Hienthihinh.pdb
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\refint\Hienthihinh.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.pdb
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\Hienthihinh.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Bài Tập\Hienthihinh\obj\Debug\net9.0\ref\Hienthihinh.dll
